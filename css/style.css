@@ -1,0 +1,32 @@
+* {
+  margin:0;
+  padding: 0;
+}
+body{
+  font-family: 'Noto Sans', sans-serif;
+  overflow-y: scroll;
+  overflow-x: hidden;
+}
+p{
+  font-size: 14px;
+}
+
+/* ========= Bar Contact Info ============= */
+
+.bar-contact-info{
+  background-color: #8e3402;
+  padding-top: 8px;
+  padding-bottom: 8px;
+}
+.bar-contact-info ul {
+    margin:0;
+    padding: 0;
+    text-align: left;
+}
+.bar-contact-info ul li {
+    color: #a1a1a1;
+    list-style: none;
+    display: inline;
+    padding-left: 10px;
+    font-size: 14px;
+}
