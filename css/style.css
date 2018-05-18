@@ -31,5 +31,27 @@ p{
     font-size: 14px;
 }
 .header{
-  background-color: #222222;
+  background-color: #FFF;
+  margin-top: 20px;
+}
+
+.header-slider .item{
+    position: relative;
+    text-align: center;
+}
+.header-slider .item img{
+  line-height: 760px;
+  height:760px;
+  display: block;
+  margin: auto;
+}
+.header-slider .item p{
+  color: white;
+  font-size: 23px;
+  background-color: rgba(18, 19, 29, 0.68);
+}
+.header-slider .bottom-right{
+    position: absolute;
+    bottom: 8px;
+    right: 16px;
 }
