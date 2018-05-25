@@ -34,7 +34,6 @@ p{
 }
 .header{
   background-color: #FFF;
-  margin-top: 20px;
 }
 
 .header-slider .item{
@@ -42,8 +41,8 @@ p{
     text-align: center;
 }
 .header-slider .item img{
-  line-height: 760px;
-  height:760px;
+  height: 500px;
+  width: auto;;
   display: block;
   margin: auto;
 }

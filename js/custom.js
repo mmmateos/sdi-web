@@ -3,7 +3,7 @@
 $(document).ready(function() {
 
   $('.slider').bxSlider({
-    slideWidth: 1100,
+    maxSlides: 1,
     auto: true,
   });
 
